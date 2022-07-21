@@ -13,7 +13,7 @@ joblib==0.16.0
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.3.0
-nltk==3.5
+nltk==3.6.6
 numpy
 pandas
 pdfminer.six==20200726
